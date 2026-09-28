@@ -2,14 +2,14 @@
 
 **Fullstack Developer | C# | PHP | JavaScript Moderno**
 
-Soy un desarrollador de software con más de 4 años de experiencia construyendo, optimizando y manteniendo aplicaciones. Tengo bases sólidas en el ecosistema Backend (C#, .NET Core, PHP) y bases de datos relacionales (PostgreSQL, SQL Server). 
+Soy un desarrollador de software con más de 4 años de experiencia construyendo, optimizando y manteniendo aplicaciones. Tengo bases sólidas en el ecosistema Backend (C#, .NET, PHP) y bases de datos relacionales (PostgreSQL, Oracle, MySQL, SQL Server). 
 
 Actualmente, estoy fortaleciendo mis habilidades en el Frontend moderno para complementar mi experiencia en Backend, con el firme objetivo de consolidarme como un **Fullstack Developer** integral. Estoy perfeccionando mi dominio de JavaScript Vanilla avanzado, manipulación eficiente del DOM y arquitecturas limpias, preparando el terreno para dominar frameworks como **React, Angular o Vue**.
 
 Me apasiona escribir código limpio (SOLID, MVC), resolver problemas complejos y la mejora continua.
 
 ### 🚀 Sobre mí
-- 🔭 Trabajando como Desarrollador de Software en DataFile S.A.
+- 🔭 Trabajando como Software Developer en DataFile S.A.
 - 🌱 Dominando **JavaScript Moderno (ES6+)** y APIs nativas del navegador.
 - 🏗️ Construyendo proyectos interactivos para consolidar mi lógica Fullstack.
 - 🎓 Tecnólogo graduado en Desarrollo de Software y Aplicativos Móviles.
