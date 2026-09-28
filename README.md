@@ -1,6 +1,6 @@
 # Hola, soy Frank Aguilar 👋
 
-**Fullstack Developer | C# | PHP | JavaScript Moderno**
+**Software Developer | C# | PHP | JavaScript Moderno**
 
 Soy un desarrollador de software con más de 4 años de experiencia construyendo, optimizando y manteniendo aplicaciones. Tengo bases sólidas en el ecosistema Backend (C#, .NET, PHP) y bases de datos relacionales (PostgreSQL, Oracle, MySQL, SQL Server). 
 
