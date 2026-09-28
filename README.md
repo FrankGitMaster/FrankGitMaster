@@ -23,14 +23,23 @@ Me apasiona escribir código limpio (SOLID, MVC), resolver problemas complejos y
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+**Frameworks y Plataformas:**
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 **Bases de Datos:**
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**Herramientas y Arquitectura:**
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+**Herramientas e IDEs:**
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Arquitectura, Patrones y Servicios:**
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=openapi-initiative&logoColor=white)
 ![MVC](https://img.shields.io/badge/Patr%C3%B3n-MVC-blue?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/Principios-SOLID-success?style=for-the-badge)
 
