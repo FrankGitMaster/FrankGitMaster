@@ -26,14 +26,14 @@ Aquí tienes algunos de mis desarrollos recientes donde aplico buenas prácticas
 
 - **[🥐 Bakery](https://github.com/FrankGitMaster/Bakery_landing_page)** & **[🍰 Sweet's](https://github.com/FrankGitMaster/Sweets_landing_page)** <br>
   Landing Pages estáticas desarrolladas con HTML5 y CSS3 puro, aplicando diseño responsivo (Mobile First) y dominio absoluto de **Flexbox**.<br>
-  [![Ver Demo Bakery](https://img.shields.io/badge/Demo_Bakery-005571?style=for-the-badge&logo=vercel&logoColor=white)](https://frankgitmaster.github.io/Bakery_landing_page/)
-  [![Ver Demo Sweet's](https://img.shields.io/badge/Demo_Sweets-005571?style=for-the-badge&logo=vercel&logoColor=white)](https://frankgitmaster.github.io/Sweets_landing_page/)
+  [![Ver Demo Bakery](https://img.shields.io/badge/Demo_Bakery-005571?style=for-the-badge&logo=google-chrome&logoColor=white)](https://frankgitmaster.github.io/Bakery_landing_page/)
+  [![Ver Demo Sweet's](https://img.shields.io/badge/Demo_Sweets-005571?style=for-the-badge&logo=google-chrome&logoColor=white)](https://frankgitmaster.github.io/Sweets_landing_page/)
 
 ### 📊 Mis Estadísticas en GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrankGitMaster&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&locale=es" alt="Estadísticas de GitHub de Frank" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankGitMaster&layout=compact&theme=tokyonight&hide_border=true&hide=c%2B%2B,cmake,hack&locale=es&langs_count=6" alt="Lenguajes Más Usados" width="48%" />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrankGitMaster&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&locale=es" alt="Estadísticas de GitHub de Frank" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankGitMaster&layout=compact&theme=tokyonight&hide_border=true&hide=c%2B%2B,cmake,hack&locale=es&langs_count=6" alt="Lenguajes Más Usados" />
+</p>
 
 ### 💻 Mi Stack Tecnológico
 
