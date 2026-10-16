@@ -2,7 +2,7 @@
 
 **Software Developer | C# | PHP | JavaScript Moderno**
 
-Soy un desarrollador de software con más de 4 años de experiencia construyendo, optimizando y manteniendo aplicaciones. Tengo bases sólidas en el ecosistema Backend (C#, .NET, PHP) y bases de datos relacionales (PostgreSQL, Oracle, MySQL, SQL Server). 
+Soy un desarrollador de software con más de 4 años de experiencia construyendo, optimizando y manteniendo aplicaciones. Tengo bases sólidas en el ecosistema Backend (C#, .NET, PHP) y bases de datos relacionales (PostgreSQL, Oracle, MySQL). 
 
 Actualmente, estoy fortaleciendo mis habilidades en el Frontend moderno para complementar mi experiencia en Backend, con el firme objetivo de consolidarme como un **Fullstack Developer** integral. Estoy perfeccionando mi dominio de JavaScript Vanilla avanzado, manipulación eficiente del DOM y arquitecturas limpias, preparando el terreno para dominar frameworks como **React, Angular o Vue**.
 
@@ -31,7 +31,7 @@ Aquí tienes algunos de mis desarrollos recientes donde aplico buenas prácticas
 
 ### 📊 Mis Estadísticas en GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrankGitMaster&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&locale=es" alt="Estadísticas de GitHub de Frank" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FrankGitMaster&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&locale=es&include_all_commits=true" alt="Estadísticas de GitHub de Frank" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankGitMaster&layout=compact&theme=tokyonight&hide_border=true&hide=c%2B%2B,cmake,hack&locale=es&langs_count=6" alt="Lenguajes Más Usados" />
 </p>
 
@@ -52,8 +52,8 @@ Aquí tienes algunos de mis desarrollos recientes donde aplico buenas prácticas
 
 **Bases de Datos:**
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **Herramientas e IDEs:**
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
